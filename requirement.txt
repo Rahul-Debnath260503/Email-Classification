@@ -1,8 +1,9 @@
+streamlit
+nltk
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
-imblearn
-nltk
-streamlit
+imbalanced-learn
+joblib
