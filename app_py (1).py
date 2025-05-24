@@ -7,12 +7,13 @@ Original file is located at
     https://colab.research.google.com/drive/13KUr0Qs6pRoo6gbiWFd_ctzR4FGX12dY
 """
 
-import streamlit as st
-import pickle
-import re
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
+
+import streamlit as st
+import pickle
+import re
 
 from nltk.corpus import stopwords
 import string
