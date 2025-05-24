@@ -3,9 +3,7 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-imblearn
+imbalanced-learn
 nltk
 streamlit
 joblib
-imbalanced-learn
-numpy
